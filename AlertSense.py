@@ -5,10 +5,10 @@ import numpy as np
 from twilio.rest import Client
 from sklearn.linear_model import LinearRegression
 
-account_sid = 'AC63b5f7aa037797d221ee3db9396a6856'
-auth_token = '4fa9febc4f282d48f9b3119588aa6e2f'
-from_number = '+14302337412'
-to_number = '+919041862600'
+account_sid = ''
+auth_token = ''
+from_number = ''
+to_number = ''
 
 
 
